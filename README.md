@@ -10,10 +10,10 @@
 👉 My interests are Machine Learning, Game Development and Web Development.
 
 🧾 Gaining Experience as I move on in Computer Science and with the help of many online bootcamps I have learned
-   a lot of knowledge of different comman and uncommon career/ fields in Computer Science.
+   a lot of knowledge of different common and uncommon career/ fields in Computer Science.
    
 💥 Collaboration on some online resources (like CS50) if seemed to be possible is highly appreciated.
 
-Well, thanks a lot for visiting my profile. 
+🥰 Well, thanks a lot for visiting my profile. 
 
 Stay safe - Stay happy - Stay Coding - Stay Developing - Stay Debugging 
