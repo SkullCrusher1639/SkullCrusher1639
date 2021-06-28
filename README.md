@@ -1,6 +1,7 @@
 Hello and Assalam o Alikum,
 <li> 
  <ul> I am Hammad Bin Sajjad, a student of Bachelors in Computer Science in PUCIT/FCIT Lahore, Pakistan.
+  </li>
 
  <ul> Supposed to graduate in 2024.
 
