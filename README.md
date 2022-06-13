@@ -11,7 +11,8 @@
 
 👉 My interests are Machine Learning, Game Development and Web Development.
 
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadbinsajjad&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadbinsajjad&layout=compact&theme=radical)]
+![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadbinsajjad&show_icons=true&theme=radical)
+       
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadbinsajjad&theme=radical)
 
 Stay Safe - Stay Happy - Stay Coding - Stay Developing - Stay Debugging 
