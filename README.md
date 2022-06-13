@@ -1,3 +1,5 @@
+![Hi, there I am Hammad Bin Sajjad. A software developer and CS sophomore at FCIT Pakistan](pexels-nao-triponez-129208.jpg)
+
 👋 Hello and Assalam o Alikum,
 
 🙋‍♂️ I am Hammad Bin Sajjad, a student of Bachelors in Computer Science in PUCIT/FCIT Lahore, Pakistan.
