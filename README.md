@@ -95,7 +95,7 @@
   
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadbinsajjad&exclude_repo=Data-101-Datathon&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadbinsajjad&exclude_repo=Data-101-Datathon,RookieGameJam22-Kill_Crusaders&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
